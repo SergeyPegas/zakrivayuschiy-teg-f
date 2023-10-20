@@ -20,7 +20,7 @@
     --bg-color: #fff;
     --animation-like-save: #000;
     --main-font: 'Inter', Arial, Helvetica, sans-serif;
-    --accent-font: 'PressStart2P', Arial, Helvetica, sans-serif;
+    --accent-font: 'PressStart2P', fantasy;
     --text-weight: 400;
     --heading-weight: 700;
     --repeating-linear-gradient-1: #d3d3d3;
@@ -37,7 +37,7 @@
     --bg-color: #000;
     --animation-like-save: #00cc14;
     --main-font: 'Inter', Arial, Helvetica, sans-serif;
-    --accent-font: 'PressStart2P', Arial, Helvetica, sans-serif;
+    --accent-font: 'PressStart2P', fantasy;
     --text-weight: 465;
     --heading-weight: 785;
     --repeating-linear-gradient-1: #000;
