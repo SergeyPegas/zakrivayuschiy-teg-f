@@ -1,3 +1,5 @@
 # Проект «Закрывающий тег»
 
-Адрес: https://github.com/SergeyPegas/zakrivayuschiy-teg-f.git
+Репозиторий: https://github.com/SergeyPegas/zakrivayuschiy-teg-f.git
+
+Адрес сайта: https://sergeypegas.github.io/zakrivayuschiy-teg-f/
